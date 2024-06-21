@@ -16,3 +16,5 @@
 dist/alfred-unixtime-converter
 *.zip
 *.alfredworkflow
+
+.idea
